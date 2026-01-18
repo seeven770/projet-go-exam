@@ -1,0 +1,2 @@
+=== INDEX DES FICHIERS ===
+Chemin: data\input.txt | Taille: 525 octets | Modifié: 2026-01-16 10:03:04

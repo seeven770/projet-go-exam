@@ -1,0 +1,4 @@
+=== RAPPORT GLOBAL ===
+Fichiers analysés : 1
+Total lignes      : 9
+Total mots        : 96
